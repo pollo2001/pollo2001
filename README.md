@@ -1,6 +1,5 @@
 <div align="center">
-<img src="profile.jpg" alt="Genaro Salazar Ruiz" width="40" height="40" class="rounded-circle me-2 border border-2 border-primary">
-<img src="https://pollo2001.github.io/genny_portfolio/profile.jpg" alt="Genaro Salazar Ruiz" width="40" height="40" class="rounded-circle me-2 border border-2 border-primary">
+<img src="https://avatars.githubusercontent.com/u/10255855?v=4" width="150" height="150" alt="Genaro Salazar Ruiz Profile Picture" style="border-radius: 50%;">
   
   <h1>Genaro Salazar Ruiz 🛜</h1>
   <h3>Systems-Level Embedded & RF Engineer | UCSD M.A.S. Candidate</h3>
