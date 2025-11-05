@@ -2,6 +2,8 @@
   <img src="https://avatars.githubusercontent.com/u/10255855?v=4" width="150" height="150" alt="Genaro Salazar Ruiz Profile Picture" style="border-radius: 50%;">
   <h1>Genaro Salazar Ruiz 🛜</h1>
   <h3>Systems-Level Embedded & RF Engineer | UCSD M.A.S. Candidate</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=pollo2001&color=blue" alt="Profile views" />
 </div>
 
 ---
