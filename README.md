@@ -12,9 +12,9 @@
 
 | Portfolio & Contact | |
 | :--- | :--- |
-| **Live Portfolio Website** | [https://pollo2001.github.io/genny_portfolio/](https://pollo2001.github.io/genny_portfolio/) 👈 **(Your live website link)** |
+| **Live Portfolio Website** | [Take a Look at My Work!](https://pollo2001.github.io/genny_portfolio/) 👈 **(Always Updating)** |
 | **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/genaro-salazar2001/) |
-| **Email** | [gsalazarruiz@ucsd.edu](mailto:gsalazarruiz@ucsd.edu) |
+| **Email** | [Contact Me!](mailto:gsalazarruiz@ucsd.edu) |
 
 ---
 
