@@ -10,10 +10,11 @@
   <!-- Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=pollo2001&color=blue&size=large" width="180" alt="Profile views" />
 
+
   <!-- Quick Bio -->
   <p>
-    🔧 Embedded & RF Engineer specializing in PLL/VCO design, DSP systems, low-power architectures, and full-stack embedded development.<br>
-    📡 Building reliable, optimized, and scalable wireless + embedded systems from silicon to software.
+    🔧 Embedded & RF Engineer focused on PLL/VCO systems, fixed-point DSP, and low-level firmware under tight power and timing constraints.<br>
+    📡 Designing and debugging wireless + embedded systems from register-level behavior to system-level performance.
   </p>
 
 </div>
