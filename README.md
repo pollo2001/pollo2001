@@ -5,7 +5,7 @@
 
   <!-- Name & Title -->
   <h1>⚡️ Genaro Salazar Ruiz 🛜</h1>
-  <h3>Systems-Level Embedded & RF Engineer | UCSD M.A.S. Candidate</h3>
+  <h3>Wireless Hardware & RF Engineer | UCSD M.A.S. Candidate</h3>
 
   <!-- Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=pollo2001&color=blue&size=large" width="180" alt="Profile views" />
@@ -13,7 +13,7 @@
 
   <!-- Quick Bio -->
   <p>
-    🔧 Embedded & RF Engineer focused on PLL/VCO systems, fixed-point DSP, and low-level firmware under tight power and timing constraints.<br>
+    🔧 Wireless Hardware Engineer focused on PLL/VCO systems, fixed-point DSP, and low-level firmware under tight power and timing constraints.<br>
     📡 Designing and debugging wireless + embedded systems from register-level behavior to system-level performance.
   </p>
 
